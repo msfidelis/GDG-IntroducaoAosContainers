@@ -1,0 +1,26 @@
+db:
+     image: abacate/mysql
+     ports:
+         - "3306:3306"
+     volumes:
+         - mysql:/var/lib/mysql
+
+
+web:
+    image: abacate/apache
+    environment:
+         - VIRTUAL_HOST=local.abacate.com.br
+    ports:
+         - "80:80"
+    volumes:
+         - /var/www/html/:/var/www/html/
+    links:
+         - db
+
+
+
+
+
+
+
+
