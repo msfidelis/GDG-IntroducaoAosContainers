@@ -1,6 +1,9 @@
 # Palestra: GDG Cabreúva: Introdução a Containers com Docker | Construindo Ambiente Web com AngularJS
 Material da palestra de Introdução a Containers com Docker ministrada via Hangout no GDG Cabreúva em São Paulo. 
 
+![Docker](https://www.markuskeuter.nl/wp-content/uploads/2016/01/docker.png)
+
+![Angular](http://blog.41studio.com/content/images/2015/06/AngularJS_logo-svg.png)
 
 # Slides
 O material dos slides pode ser encontrado nesse Link do Slideshare:
