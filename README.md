@@ -37,4 +37,4 @@ Segue alguns links citados durante o evento
 
 * Dentro da pasta AngularJS há um Dockerfile e uma pasta src
 * Esse build do Dockerfile mapeará a pasta /src para a pasta /var/www/html/ do container 
-* Subindo esse container, você já terá um Hello World em Angular com todo o ambiente Web buildado no Docker :)
+* Subindo esse container, você já terá um Hello World em Angular com todo o ambiente Web buildado no Docker :). Fica aí o desafio para o pessoal que acompanhou!
