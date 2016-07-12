@@ -29,3 +29,9 @@ Segue alguns links citados durante o evento
 * [Página do GDG] (https://www.facebook.com/gdgcabreuva/?fref=ts)
 * [Blog do Nanoshots] (http://www.nanoshots.com.br/)
 
+
+# Subindo um Container mapeado com AngularJS
+
+* Dentro da pasta AngularJS há um Dockerfile e uma pasta src
+* Esse build do Dockerfile mapeará a pasta /src para a pasta /var/www/html/ do container 
+* Subindo esse container, você já terá um Hello World em Angular com todo o ambiente Web buildado no Docker :)
